@@ -1,0 +1,19 @@
+{
+    "name": "angular/market",
+    "description": "Api for a market app",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "antoniorova",
+            "email": "antoniorova@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "api\\": "src/"
+        }
+    }
+}
